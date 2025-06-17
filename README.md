@@ -1,6 +1,6 @@
 # Hi 👋, I'm Chandoopa
 
-## Unleashing Passion in Software Engineering
+## Unleashing Passion in Business Analysis
 
 ### 🚀 Skills
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
