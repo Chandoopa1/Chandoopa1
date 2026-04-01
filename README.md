@@ -1,6 +1,6 @@
 # Hi 👋, I'm Chandoopa
 
-## Unleashing Passion in Business Analysis
+## Tech enthusiast
 
 ### 🚀 Skills
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
@@ -18,7 +18,6 @@
 
 ### 🛠️ Backend Development
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 
 ### 🛢️ Database
