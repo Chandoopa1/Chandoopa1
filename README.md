@@ -25,8 +25,8 @@
 
 
 ### 🎓 Education
-- IIT Undergraduate at Uva Wellassa University
-- BIT Undergraduate at University of Colombo
+- BSc(Hons) Industrial Information Technology, Uva Wellassa University
+- Bachelor of Information Technology (External), University of Colombo
 
 
 ### 🌐 Connect with me:
